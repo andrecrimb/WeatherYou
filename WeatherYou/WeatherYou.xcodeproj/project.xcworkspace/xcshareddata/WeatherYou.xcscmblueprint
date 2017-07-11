@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0A8F0A949AE7B6A4A840629CB33F1951BF1F720C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "261404893310EC1BAED984EFCA9367605CC71089" : 9223372036854775807,
+    "0A8F0A949AE7B6A4A840629CB33F1951BF1F720C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E343E855-5E98-4E0C-9C6C-773110FBA9FC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "261404893310EC1BAED984EFCA9367605CC71089" : "..",
+    "0A8F0A949AE7B6A4A840629CB33F1951BF1F720C" : "WeatherYou\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WeatherYou",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WeatherYou\/WeatherYou.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/andrerosa189\/WeatherYou.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0A8F0A949AE7B6A4A840629CB33F1951BF1F720C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:KennedySDias\/EMR-for-NGO.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "261404893310EC1BAED984EFCA9367605CC71089"
+    }
+  ]
+}
